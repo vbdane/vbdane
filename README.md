@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋,I'm known as VB Dane</h1>
+<h3 align="center">Hi 👋,I'm known as</h3>
+<h1 align="center">VB Dane</h1>
 <h3 align="center">A 17 year old medical aspirant with innate love for tech. I would say I'm a curious, self-taught budding coder.</h3>
 
+<span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbdane&label=Profile%20views&color=0e75b6&style=flat" alt="vbdane" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dane_vb" target="blank"><img src="https://img.shields.io/twitter/follow/dane_vb?logo=twitter&style=for-the-badge" alt="dane_vb" /></a> </p>
+</span>
 
 - 🔭 I’m currently self-teaching [advanced statistics for data science](https://www.coursera.org/specializations/advanced-statistics-data-science)
 
