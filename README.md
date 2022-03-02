@@ -4,8 +4,6 @@
 
 <span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbdane&label=Profile%20views&color=0e75b6&style=flat" alt="vbdane" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dane_vb" target="blank"><img src="https://img.shields.io/twitter/follow/dane_vb?logo=twitter&style=for-the-badge" alt="dane_vb" /></a> </p>
 </span>
 
 - 🔭 I’m currently self-teaching [advanced statistics for data science](https://www.coursera.org/specializations/advanced-statistics-data-science)
