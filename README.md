@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm known as</h3>
 <h1 align="center">VB Dane</h1>
-<h3 align="center">A 17 year old medical aspirant with innate love for tech. I would say I'm a curious, self-taught budding coder.</h3>
+<h3 align="center">A 18 year old medical aspirant with innate love for tech. I would say I'm a curious, self-taught budding coder.</h3>
 
 <span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbdane&label=Profile%20views&color=0e75b6&style=flat" alt="vbdane" /> </p>
